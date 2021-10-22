@@ -1,0 +1,55 @@
+body {
+  background: #ccc;
+  margin: 0;
+}
+
+#container {
+  margin: 0 auto;
+  width: 900px;
+}
+
+#header {
+  text-align: center;
+}
+
+/* prettier-ignore */
+#title, .subtitle, .post_title {
+  color: blue;
+  margin: 0;
+}
+
+#title {
+  text-transform: uppercase;
+}
+.subtitle {
+  color: black;
+}
+.post_title {
+  font-size: 16px;
+  text-transform: uppercase;
+  text-decoration: line-through;
+}
+
+.post {
+  background: #fff;
+  border: 1px solid black;
+  padding: 5px;
+  margin: 0;
+}
+
+p {
+  text-transform: capitalize;
+}
+.img_self {
+  border: 1px solid black;
+  border-radius: 50%;
+}
+
+ul {
+  text-align: center;
+}
+li {
+  list-style: none;
+  display: inline;
+  margin: 10px;
+}

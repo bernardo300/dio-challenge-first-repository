@@ -53,3 +53,8 @@ li {
   display: inline;
   margin: 10px;
 }
+
+.panel {
+  background-color: red;
+  margin: 5px;
+}

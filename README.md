@@ -19,13 +19,14 @@ Repositorio cirado para anotações do Bootcamp **Impulso React Web Developer** 
 Site responsivo usando Flexbox
 [Leia mais](https://kennagsoftflex.netlify.app/)
 
-
 Joguinho clone dino
 [Leia mais](https://kennagsoftdino.netlify.app/)
 
-
 Clone Netflix
 [Leia mais](https://kennagsoftnetflix.netlify.app)
+
+Pokemon
+[Leia mais](https://github.com/bernardo300/dio-class-pokemon-live)
 
 ### Adicionando codigos
 

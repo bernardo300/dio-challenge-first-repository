@@ -17,18 +17,18 @@ Repositorio cirado para anotações do Bootcamp **Impulso React Web Developer** 
 ## Projetos criados durante o bootcamp
 
 Site responsivo usando Flexbox
-[Acessar](https://kennagsoftflex.netlify.app/), 
+[Acessar](https://kennagsoftflex.netlify.app/),
 [Repositorio](https://github.com/bernardo300/dio-react-project-css-flex)
 
 Joguinho clone dino
-[Acessar](https://kennagsoftdino.netlify.app/), 
+[Acessar](https://kennagsoftdino.netlify.app/),
 [Repositorio](https://github.com/bernardo300/dio-clone-dino)
 
 Clone Netflix
 [Acessar](https://kennagsoftnetflix.netlify.app), [Repositorio](https://github.com/bernardo300/dio-clone-netflix)
 
 Pokemon
-[Acessar](kennagsoftpokemon.netlify.app),
+[Acessar](https://kennagsoftpokemon.netlify.app),
 [Repositorio](https://github.com/bernardo300/dio-class-pokemon-live)
 
 Pesquisa de Restaurante

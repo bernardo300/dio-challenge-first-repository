@@ -28,7 +28,7 @@ Clone Netflix
 [Acessar](https://kennagsoftnetflix.netlify.app), [Repositorio](https://github.com/bernardo300/dio-clone-netflix)
 
 Pokemon
-[Acessar](kennagsoftpokemon.netlify.app), 
+[Acessar](kennagsoftpokemon.netlify.app),
 [Repositorio](https://github.com/bernardo300/dio-class-pokemon-live)
 
 Pesquisa de Restaurante
